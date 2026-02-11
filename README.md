@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python">
-  <img src="https://img.shields.io/badge/ML-ScikitLearn-orange?logo=scikitlearn">
+  <img src="https://img.shields.io/badge/DL-Tensorflow keras-orange?logo=Tensorflow">
   <img src="https://img.shields.io/badge/Framework-Streamlit-black?logo=Streamlit">
   <img src="https://img.shields.io/badge/Status-Active-success">
   <img src="https://img.shields.io/github/stars/gurupraneshNC/AI-based-IDS?logo=github">
