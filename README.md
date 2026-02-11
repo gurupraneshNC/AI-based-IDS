@@ -3,7 +3,7 @@
 <h1 align="center">🛡️ AI-Based Intrusion Detection System</h1>
 
 <p align="center">
-  <b>Machine Learning Powered Network Security System</b><br>
+  <b>Deep Learning Powered Network Security System</b><br>
   Detect • Classify • Prevent Cyber Attacks using AI
 </p>
 
@@ -19,7 +19,7 @@
 
 # 📌 Project Overview
 
-The **AI-Based Intrusion Detection System (IDS)** is a Machine Learning driven security system designed to detect malicious network activity and classify different types of cyber attacks.
+The **AI-Based Intrusion Detection System (IDS)** is a Deep Learning driven security system designed to detect malicious network activity and classify different types of cyber attacks.
 
 Traditional IDS systems rely on static rules and signatures.  
 This project enhances detection capability using **supervised learning models** to improve accuracy and adaptability.
